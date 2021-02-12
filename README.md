@@ -1,2 +1,2 @@
-# Cyliks-Hangout
-The Hangout Bot for the Discord guild Cyliks' Hangout
+# Phosphor Bot
+General use Discord bot!
